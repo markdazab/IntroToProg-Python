@@ -1,0 +1,3 @@
+eat,3
+sleep,2
+mop,1
